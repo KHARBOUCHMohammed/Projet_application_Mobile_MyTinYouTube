@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Sahil Jaiswal/AndroidStudioProjects/Youtube_API/app/src/main/res/drawable/box_design.xml" value="0.1945" />
+        <entry key="..\:/Users/Sahil Jaiswal/AndroidStudioProjects/Youtube_API/app/src/main/res/drawable/ic_baseline_star_24.xml" value="0.1945" />
+        <entry key="..\:/Users/Sahil Jaiswal/AndroidStudioProjects/Youtube_API/app/src/main/res/drawable/ic_baseline_star_outline_24.xml" value="0.1945" />
+        <entry key="..\:/Users/Sahil Jaiswal/AndroidStudioProjects/Youtube_API/app/src/main/res/drawable/search_button_design.xml" value="0.1945" />
+        <entry key="..\:/Users/Sahil Jaiswal/AndroidStudioProjects/Youtube_API/app/src/main/res/drawable/submit_btn_design.xml" value="0.1945" />
+        <entry key="..\:/Users/Sahil Jaiswal/AndroidStudioProjects/Youtube_API/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Sahil Jaiswal/AndroidStudioProjects/Youtube_API/app/src/main/res/layout/activity_mainscreen.xml" value="0.15104166666666666" />
+        <entry key="..\:/Users/Sahil Jaiswal/AndroidStudioProjects/Youtube_API/app/src/main/res/layout/activity_video_details.xml" value="0.33" />
+        <entry key="..\:/Users/Sahil Jaiswal/AndroidStudioProjects/Youtube_API/app/src/main/res/layout/app_bar_mainscreen.xml" value="0.15534420289855072" />
+        <entry key="..\:/Users/Sahil Jaiswal/AndroidStudioProjects/Youtube_API/app/src/main/res/layout/bottom_navigation_tab.xml" value="0.33" />
+        <entry key="..\:/Users/Sahil Jaiswal/AndroidStudioProjects/Youtube_API/app/src/main/res/layout/configuration_screen_fragement.xml" value="0.25" />
+        <entry key="..\:/Users/Sahil Jaiswal/AndroidStudioProjects/Youtube_API/app/src/main/res/layout/content_mainscreen.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Sahil Jaiswal/AndroidStudioProjects/Youtube_API/app/src/main/res/layout/favourite_card_design.xml" value="0.25" />
+        <entry key="..\:/Users/Sahil Jaiswal/AndroidStudioProjects/Youtube_API/app/src/main/res/layout/favourite_screen_fragement.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Sahil Jaiswal/AndroidStudioProjects/Youtube_API/app/src/main/res/layout/fragment_home.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Sahil Jaiswal/AndroidStudioProjects/Youtube_API/app/src/main/res/layout/home_screen_fragement.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Sahil Jaiswal/AndroidStudioProjects/Youtube_API/app/src/main/res/layout/nav_header_mainscreen.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Sahil Jaiswal/AndroidStudioProjects/Youtube_API/app/src/main/res/layout/row_item_home.xml" value="0.25" />
+        <entry key="..\:/Users/Sahil Jaiswal/AndroidStudioProjects/Youtube_API/app/src/main/res/menu/activity_main_drawer.xml" value="0.75" />
+        <entry key="..\:/Users/Sahil Jaiswal/AndroidStudioProjects/Youtube_API/app/src/main/res/menu/mainscreen.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
